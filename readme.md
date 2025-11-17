@@ -1,1 +1,1 @@
-"Hi i am writing code for external exam"
+"Hi am writing code for external exam"
